@@ -7,6 +7,7 @@ Portal de Dados Abertos da UFRN: http://dados.ufrn.br/
 Bibliotecas utilizadas neste estudo: Pandas, Matplotlib, Seaborn e Numpy.
 
 Autores: 
+         
          ANDRÉ RICARDO CÂNDIDO SILVA, e-mail: anricardo98@hotmail.com
 
          DIOGO DE QUEIROZ NEGREIROS CAMPOS, e-mail: diogoncampos@hotmail.com
