@@ -15,4 +15,4 @@ Autores:
          PATRICIA SAYONARA GOES DE ARAUJO, e-mail: patysayonara28@gmail.com
       
       
-Link para um vídeo, no YouTube, específico sobre as análises feitas: 
+Link para um vídeo, no YouTube, específico sobre as análises feitas: https://www.youtube.com/watch?v=YmEPjntVPnU&feature=youtu.be
